@@ -7,7 +7,8 @@ title: Clara Briand
 
 <div>
 
-## About
+## About  
+
 
 I am currently a Master's student at the École Normale Supérieure (ENS). 
 
