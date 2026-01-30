@@ -73,6 +73,6 @@ cv:
 # ------------------
 # Build settings
 # ------------------
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
+# plugins:
+#  - jekyll-remote-theme
+#  - jekyll-seo-tag
