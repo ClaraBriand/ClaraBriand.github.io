@@ -15,13 +15,19 @@ title: Clara Briand
       École Normale Supérieure (ENS).
     </p>
 
-    <p>
-      My academic interests include …
+<p>
+      Between February and May 2026 I will be an intern student at the
+      Max Planck Institute of Leipzig, under the supervision of
+      <a href="https://math.berkeley.edu/~bernd/" target="_blank">Bernd Sturmfels</a>
+      and
+      <a href="https://sites.google.com/view/viktoriia-borovik/" target="_blank">
+        Viktoriia Borovik
+      </a>.
     </p>
   </div>
 
   <div class="home-right">
-    <img src="/assets/img/profile.jpg" alt="Profile photo" class="profile-pic">
+    <img src="/assets/img/photopatisson.jpg" alt="Profile photo" class="profile-pic">
 
     <div class="contact-info">
       <h3>Contact</h3>
