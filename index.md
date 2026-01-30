@@ -5,7 +5,6 @@ title: Clara Briand
 
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-
 <div class="home-grid">
 
   <div class="home-left">
