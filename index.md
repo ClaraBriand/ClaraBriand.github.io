@@ -7,27 +7,31 @@ title: Clara Briand
 
 <div class="home-grid">
 
-<div class="home-left">
+  <div class="home-left">
+    <h2>About</h2>
 
-## About
+    <p>
+      I am currently a Master's student at the
+      École Normale Supérieure (ENS).
+    </p>
 
-I am currently a Master's student at the  
-École Normale Supérieure (ENS).
+    <p>
+      My academic interests include …
+    </p>
+  </div>
 
-My academic interests include …
+  <div class="home-right">
+    <img src="/assets/img/profile.jpg" alt="Profile photo" class="profile-pic">
 
-</div>
+    <div class="contact-info">
+      <h3>Contact</h3>
 
-<div class="home-right">
+      <p>📧 clara.briand@ens.psl.eu</p>
 
-![Profile photo](/assets/img/profile.jpg){: .profile-pic }
-
-### Contact
-
-📧 clara.briand@ens.psl.eu  
-
-[Download CV (PDF)](/assets/cv/CV.pdf)
-
-</div>
+      <p>
+        <a href="/assets/cv/CV.pdf">Download CV (PDF)</a>
+      </p>
+    </div>
+  </div>
 
 </div>
