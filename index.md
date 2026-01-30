@@ -34,7 +34,7 @@ title: Clara Briand
     <div class="contact-info">
       <h3>Contact</h3>
 
-      <p>📧 <a href="mailto:clara.briand@ens.psl.eu">
+      <p>Email: <a href="mailto:clara.briand@ens.psl.eu">
         clara.briand@ens.psl.eu</a></p>
 
       <p>
