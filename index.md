@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Clara Briand
 ---
 
@@ -34,8 +34,11 @@ title: Clara Briand
     <div class="contact-info">
       <h3>Contact</h3>
 
-      <p>Email: <a href="mailto:clara.briand@ens.psl.eu">
-        clara.briand@ens.psl.eu</a></p>
+      <p>📧
+        <a href="mailto:clara.briand@ens.psl.eu">
+          clara.briand@ens.psl.eu
+        </a>
+      </p>
 
       <p>
         <a href="{{ '/assets/cv/CV.pdf' | relative_url }}">
@@ -46,4 +49,3 @@ title: Clara Briand
   </div>
 
 </div>
-
