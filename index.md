@@ -30,7 +30,7 @@ layout: page
   </div>
 
   <div class="home-profile">
-    <img src="{{ '/assets/img/profile.jpg' | relative_url }}"
+    <img src="{{ '/assets/img/photopatisson.jpg' | relative_url }}"
          alt="Profile photo"
          class="profile-pic">
 
