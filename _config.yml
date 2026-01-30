@@ -9,7 +9,7 @@ url: "https://clarabriand.github.io"
 # ------------------
 # Theme & appearance
 # ------------------
-theme: jekyll-theme-minimal
+remote_theme: pages-theme/minimal@v0.2.0
 markdown: kramdown
 
 colors:
