@@ -7,6 +7,7 @@ layout: page
 
 <div class="home-grid-2">
 
+  <!-- Left column: About -->
   <div class="home-about">
     <h2>About</h2>
 
@@ -23,6 +24,7 @@ layout: page
     </p>
   </div>
 
+  <!-- Right column: Profile + Contact -->
   <div class="home-profile">
     <img src="{{ '/assets/img/photopatisson.jpg' | relative_url }}"
          alt="Profile photo"
