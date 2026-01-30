@@ -21,7 +21,7 @@ title: Clara Briand
   </div>
 
   <div class="home-right">
-    <img src="/assets/img/profile.jpg" alt="Profile photo" class="profile-pic">
+    <img src="/assets/_img/profile.jpg" alt="Profile photo" class="profile-pic">
 
     <div class="contact-info">
       <h3>Contact</h3>
