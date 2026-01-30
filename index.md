@@ -1,9 +1,12 @@
 ---
 layout: page
-title: Clara Briand
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
+<h1 class="site-title">Clara Briand</h1>
+
+<p class="site-subtitle">Academic Homepage</p>
 
 <div class="home-grid-2">
 
@@ -27,25 +30,13 @@ title: Clara Briand
   </div>
 
   <div class="home-profile">
-    <img src="{{ '/assets/img/photopatisson.jpg' | relative_url }}"
+    <img src="{{ '/assets/img/profile.jpg' | relative_url }}"
          alt="Profile photo"
          class="profile-pic">
 
     <div class="contact-info">
       <h3>Contact</h3>
 
-      <p>📧
-        <a href="mailto:clara.briand@ens.psl.eu">
-          clara.briand@ens.psl.eu
-        </a>
-      </p>
-
       <p>
-        <a href="{{ '/assets/cv/CV.pdf' | relative_url }}">
-          Download CV (PDF)
-        </a>
-      </p>
-    </div>
-  </div>
-
-</div>
+        📧 <a href="mailto:clara.briand@ens.psl.eu">
+          clara.briand@en
