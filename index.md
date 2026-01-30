@@ -2,8 +2,6 @@
 layout: page
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
-
 <h1 class="site-title">Clara Briand</h1>
 
 <p class="site-subtitle">Academic Homepage</p>
@@ -43,3 +41,10 @@ layout: page
       <p>
         📧 <a href="mailto:clara.briand@ens.psl.eu">
           clara.briand@en
+
+    <p>
+  📄
+  <a href="{{ '/assets/cv/CV.pdf' | relative_url }}" target="_blank">
+    Download CV (PDF)
+  </a>
+</p>
