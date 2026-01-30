@@ -2,38 +2,32 @@
 layout: default
 title: Clara Briand
 ---
+
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
 <div class="home-grid">
 
-  <div class="home-left">
-    <h2>About</h2>
+<div class="home-left">
 
-    <p>
-      I am currently a Master's student at the École Normale Supérieure (ENS). 
+## About
 
-    Between February and May 2026 I will be an intern student at the Max Planck Institute of Leipzig, under the supervision of [Bernd   Sturmfels](https://math.berkeley.edu/~bernd/) and [Viktoriia Borovik](https://sites.google.com/view/viktoriia-borovik/).
+I am currently a Master's student at the  
+École Normale Supérieure (ENS).
 
-I am interested in combinatorics, dynamical systems, and classical algebraic geometry.
-    </p>
+My academic interests include …
 
-    <p>
-      My academic interests include …
-    </p>
-  </div>
+</div>
 
-  <div class="home-right">
-    <img src="/assets/img/profile.jpg" alt="Profile photo" class="profile-pic">
+<div class="home-right">
 
-    <div class="contact-info">
-      <h3>Contact</h3>
+![Profile photo](/assets/img/profile.jpg){: .profile-pic }
 
-      <p>📧 clara.briand@ens.psl.eu</p>
+### Contact
 
-      <p>
-        <a href="/assets/cv/CV.pdf">Download CV (PDF)</a>
-      </p>
-    </div>
-  </div>
+📧 clara.briand@ens.psl.eu  
+
+[Download CV (PDF)](/assets/cv/CV.pdf)
+
+</div>
 
 </div>
