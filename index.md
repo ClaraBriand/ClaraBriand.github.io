@@ -2,6 +2,9 @@
 layout: page
 ---
 
+<!-- Load custom CSS -->
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
 <h1 class="site-title">Clara Briand</h1>
 <p class="site-subtitle">Academic Homepage</p>
 
